@@ -4,413 +4,413 @@
             "key" : "drpy_js_360影视",
             "name" : "360影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/360ys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/360ys.js"
         },
         {
             "key" : "drpy_js_qingtingFM",
             "name" : "蜻蜓FM[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/qingtingFM.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/qingtingFM.js"
         },
         {
             "key" : "drpy_js_酷奇MV",
             "name" : "酷奇MV[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/kuqiMV.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/kuqiMV.js"
         },
         {
             "key" : "drpy_js_爱车MV",
             "name" : "爱车MV[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/aicheMV.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/aicheMV.js"
         },
         {
             "key" : "drpy_js_310直播",
             "name" : "310直播[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/310zhibo.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/310zhibo.js"
         },
         {
             "key" : "drpy_js_188看",
             "name" : "188看[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/188kan.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/188kan.js"
         },
         {
             "key" : "drpy_js_Voflix",
             "name" : "Voflix[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/Voflix.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/Voflix.js"
         },
         {
             "key" : "drpy_js_小白菜电影",
             "name" : "小白菜电影[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/xiaobaicaidy.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/xiaobaicaidy.js"
         },
         {
             "key" : "drpy_js_新视觉影视",
             "name" : "新视觉影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/xinshijueys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/xinshijueys.js"
         },
         {
             "key" : "drpy_js_子子影视",
             "name" : "子子影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/ziziys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/ziziys.js"
         },
         {
             "key" : "drpy_js_星辰影视",
             "name" : "星辰影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/xingchenys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/xingchenys.js"
         },
             {
             "key" : "drpy_js_四个圈",
             "name" : "四个圈[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/sigequan.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/sigequan.js"
         },
             {
             "key" : "drpy_js_快看",
             "name" : "快看[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/kuaikan.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/kuaikan.js"
         },
             {
             "key" : "drpy_js_低端",
             "name" : "低端[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/ddys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/ddys.js"
         },
             {
             "key" : "drpy_js_菜狗",
             "name" : "菜狗[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/caigou.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/caigou.js"
         },
             {
             "key" : "drpy_js_豆瓣",
             "name" : "豆瓣[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/douban.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/douban.js"
         },{
             "key" : "drpy_js_麦豆",
             "name" : "麦豆[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/maidoucom.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/maidoucom.js"
         },
             {
             "key" : "drpy_js_69美剧",
             "name" : "69美剧[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/69meiju.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/69meiju.js"
         },
             {
             "key" : "drpy_js_优酷",
             "name" : "优酷[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/youku.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/youku.js"
         },
             {
             "key" : "drpy_js_来看点播",
             "name" : "来看点播[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/laikandianbo.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/laikandianbo.js"
         },
             {
             "key" : "drpy_js_酷云77",
             "name" : "酷云77[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/kuyun77.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/kuyun77.js"
         },
             {
             "key" : "drpy_js_真不卡",
             "name" : "真不卡[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhenbuka.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/zhenbuka.js"
         },
             {
             "key" : "drpy_js_素白白",
             "name" : "素白白[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/subaibai.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/subaibai.js"
         },
             {
             "key" : "drpy_js_短视频",
             "name" : "短视频[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/duanshipin.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/duanshipin.js"
         },
             {
             "key" : "drpy_js_TV蜂",
             "name" : "TV蜂[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/TVfeng.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/TVfeng.js"
         },
             {
             "key" : "drpy_js_百忙无果",
             "name" : "百忙无果[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/baimangwuguo.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/baimangwuguo.js"
         },
             {
             "key" : "drpy_js_喵喵",
             "name" : "喵喵[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/miaomiao.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/miaomiao.js"
         },
             {
             "key" : "drpy_js_MXONE",
             "name" : "MXONE[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/MXONE.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/MXONE.js"
         },
             {
             "key" : "drpy_js_Nike影视",
             "name" : "Nike影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/Nikeys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/Nikeys.js"
         },
             {
             "key" : "drpy_js_两个BT",
             "name" : "两个BT[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/lianggeBT.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/lianggeBT.js"
         },
             {
             "key" : "drpy_js_大师兄影视",
             "name" : "大师兄影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/dashixiongys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/dashixiongys.js"
         },
             {
             "key" : "drpy_js_皮皮泡",
             "name" : "皮皮泡[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/pipipao.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/pipipao.js"
         },
             {
             "key" : "drpy_js_RP影视",
             "name" : "RP影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/RPys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/RPys.js"
         },
             {
             "key" : "drpy_js_看了么",
             "name" : "看了么[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/kanleme.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/kanleme.js"
         },
             {
             "key" : "drpy_js_奇珍异兽",
             "name" : "奇珍异兽[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/qizhenyishou.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/qizhenyishou.js"
         },
             {
             "key" : "drpy_js_人人影视",
             "name" : "人人影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/renrenys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/renrenys.js"
         },
             {
             "key" : "drpy_js_万能影视",
             "name" : "万能影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/wannengys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/wannengys.js"
         },
             {
             "key" : "drpy_js_小强迷",
             "name" : "小强迷[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/xiaoqiangmi.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/xiaoqiangmi.js"
         },
             {
             "key" : "drpy_js_鸭奈飞",
             "name" : "鸭奈飞[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/yanaifei.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/yanaifei.js"
         },
             {
             "key" : "drpy_js_在线之家",
             "name" : "在线之家[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zaixianzhijia.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/zaixianzhijia.js"
         },
             {
             "key" : "drpy_js_蓝光影院",
             "name" : "蓝光影院[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/languangyy.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/languangyy.js"
         },
             {
             "key" : "drpy_js_莫扎兔",
             "name" : "莫扎兔[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/mozhatu.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/mozhatu.js"
         },
             {
             "key" : "drpy_js_007影视",
             "name" : "007影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/007ys.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/007ys.js"
         },
             {
             "key" : "drpy_js_cokemv",
             "name" : "cokemv[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/cokemv.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/cokemv.js"
         },
             {
             "key" : "drpy_js_奇优影院",
             "name" : "奇优影院[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/qiyouyy.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/qiyouyy.js"
         },
             {
             "key" : "drpy_js_腾云驾雾",
             "name" : "腾云驾雾[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/tengyunjiawu.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/tengyunjiawu.js"
         },
             {
             "key" : "drpy_js_凌云影视",
             "name" : "凌云影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/lingyun.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/lingyun.js"
         },
             {
             "key" : "drpy_js_8号影院",
             "name" : "8号影院[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/8yy.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/8yy.js"
         },
             {
             "key" : "drpy_js_抓饭体育",
             "name" : "抓饭体育[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuafantiyu.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/zhuafantiyu.js"
         },
             {
             "key" : "drpy_js_兔小贝",
             "name" : "兔小贝[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/tuxiaobei.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/tuxiaobei.js"
         },
         {
             "key" : "drpy_js_厂长资源",
             "name" : "厂长资源[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/changzhangziyuan.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/changzhangziyuan.js"
         },
         {
             "key" : "drpy_js_起飞影院",
             "name" : "起飞影院[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/qifeiyy.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/qifeiyy.js"
         },
         {
             "key" : "drpy_js_追剧啦",
             "name" : "追剧啦[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuijula.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/zhuijula.js"
         },
         {
             "key" : "drpy_js_追剧达人",
             "name" : "追剧达人[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuijudaren.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/zhuijudaren.js"
         },
         {
             "key" : "drpy_js_追剧喵",
             "name" : "追剧喵[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuijumiao.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/zhuijumiao.js"
         },
         {
             "key":"drpy_js_荐片",
             "name":"荐片[DRPY]",
             "type":3,
-            "api":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/jianpian.js"
+            "api":"https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/jianpian.js"
         },   
         {
             "key":"drpy_js_南瓜影院",
             "name":"南瓜影院[DRPY]",
             "type":3,
-            "api":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/nanguayy.js"
+            "api":"https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/nanguayy.js"
         },   
         {
             "key":"drpy_js_189",
             "name":"在线189[DRPY]",
             "type":3,
-            "api":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zaixian189.js"
+            "api":"https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/zaixian189.js"
         },   
         {
             "key" : "drpy_js_猫了个咪",
             "name" : "猫了个咪[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/maolegemi.js"
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/libs/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/RPxw/Q/master/js/maolegemi.js"
         }],
     "lives" : [
             {
